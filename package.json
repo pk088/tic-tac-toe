@@ -1,7 +1,7 @@
 {
   "name": "tic_tac_toe",
-  "homepage": "https://pk088.github.io/tic-tac-toe",
   "version": "0.1.0",
+  "homepage": "https://pk088.github.io/tic-tac-toe",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.5",
